@@ -33,7 +33,7 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 ####บันทึกผลการทดลอง
-![](https://github.com/Patcharanan/LAB-04/blob/master/imgs/1.PNG?raw=true)
+![](https://raw.githubusercontent.com/Patcharanan/LAB-04/07f5e27fc1cad6a8962050c7b68d16b2d1034e88/imgs/1.PNG)
 
 * จากผลการทดลองพบว่า ตอนรันผลจะแสดงคำว่า Hello ออกมา
 <hr> 
@@ -45,7 +45,7 @@
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
- ![](https://github.com/Patcharanan/LAB-04/blob/master/imgs/2.PNG?raw=true)
+ ![](https://raw.githubusercontent.com/Patcharanan/LAB-04/ea023dbbbc45a017fdd0b2f776ab446d9360ef8d/imgs/2.PNG)
  
 * จากผลการทดลองพบว่า เมื่อกดรันโปรแกรมจะแสดงคำว่า Hello World ออกมา
 <hr>
