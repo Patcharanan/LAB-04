@@ -33,7 +33,10 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 ####บันทึกผลการทดลอง
-<hr>
+![](https://github.com/Patcharanan/LAB-04/blob/master/imgs/1.PNG?raw=true)
+
+จากผลการทดลองพบว่า ตอนรันผลจะแสดงคำว่า Hello ออกมา
+<hr> 
 <hr>
 <hr>
 <hr>
