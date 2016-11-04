@@ -67,46 +67,29 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 บันทึกผลที่ได้จากการรันโปรแกรม
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/Patcharanan/LAB-04/blob/master/imgs/3.PNG?raw=true)
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้
 
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P6.png)
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+![](https://github.com/Patcharanan/LAB-04/blob/master/imgs/4.PNG?raw=true)
 
 ###คำถาม 4.2
 
 ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร  จงอธิบาย
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+ * เป็นอย่างคิดคือ ฟังก์ชัน WriteLine เมื่อจบประโยคจะทำการเว้นบรรทัดลงมา ผลเป็นไปตามการทดลอง
 
 ### คำถาม 4.3 
 
 จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+ * Console.Write() เมื่อทำการรันโปรแกรม ประโยคจะติดๆกันไปเรื่อยๆ ไม่มีการเว้นรรทัดให้ แต่ Console.WriteLine() เมื่อจบประโยคจะเว้นบรรทัดแล้วขึ้นต้นประโยคให้
 
 ##สรุปผลการทดลอง
 
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+* จากผลการทดลองพบว่า ฟังก์ชัน Console.Write() และ Console.WriteLine() ต่างกันตรงที่ Console.Write() จะไม่มีการเว้นบรรทัดเมื่อจบประโยค แต่ Console.WriteLine() จะทำการเว้นบรรทัด 
 
